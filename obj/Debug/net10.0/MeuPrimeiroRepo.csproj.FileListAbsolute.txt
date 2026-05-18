@@ -1,0 +1,15 @@
+C:\devops\MeuPrimeiroRepo\bin\Debug\net10.0\MeuPrimeiroRepo.exe
+C:\devops\MeuPrimeiroRepo\bin\Debug\net10.0\MeuPrimeiroRepo.deps.json
+C:\devops\MeuPrimeiroRepo\bin\Debug\net10.0\MeuPrimeiroRepo.runtimeconfig.json
+C:\devops\MeuPrimeiroRepo\bin\Debug\net10.0\MeuPrimeiroRepo.dll
+C:\devops\MeuPrimeiroRepo\bin\Debug\net10.0\MeuPrimeiroRepo.pdb
+C:\devops\MeuPrimeiroRepo\obj\Debug\net10.0\MeuPrimeiroRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\devops\MeuPrimeiroRepo\obj\Debug\net10.0\MeuPrimeiroRepo.AssemblyInfoInputs.cache
+C:\devops\MeuPrimeiroRepo\obj\Debug\net10.0\MeuPrimeiroRepo.AssemblyInfo.cs
+C:\devops\MeuPrimeiroRepo\obj\Debug\net10.0\MeuPrimeiroRepo.csproj.CoreCompileInputs.cache
+C:\devops\MeuPrimeiroRepo\obj\Debug\net10.0\MeuPrimeiroRepo.sourcelink.json
+C:\devops\MeuPrimeiroRepo\obj\Debug\net10.0\MeuPrimeiroRepo.dll
+C:\devops\MeuPrimeiroRepo\obj\Debug\net10.0\refint\MeuPrimeiroRepo.dll
+C:\devops\MeuPrimeiroRepo\obj\Debug\net10.0\MeuPrimeiroRepo.pdb
+C:\devops\MeuPrimeiroRepo\obj\Debug\net10.0\MeuPrimeiroRepo.genruntimeconfig.cache
+C:\devops\MeuPrimeiroRepo\obj\Debug\net10.0\ref\MeuPrimeiroRepo.dll
